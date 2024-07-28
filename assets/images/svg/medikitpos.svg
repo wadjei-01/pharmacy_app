@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Artboard1" x="0" y="0" width="1080" height="1080" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect id="Artboard11" serif:id="Artboard1" x="0" y="0" width="1080" height="1080"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <path d="M1080,209.743C1080,154.115 1057.9,100.767 1018.57,61.432C979.233,22.098 925.885,-0 870.257,0L209.743,0C154.115,-0 100.767,22.098 61.432,61.432C22.098,100.767 -0,154.115 0,209.743L0,870.257C-0,925.885 22.098,979.233 61.432,1018.57C100.767,1057.9 154.115,1080 209.743,1080L870.257,1080C925.885,1080 979.233,1057.9 1018.57,1018.57C1057.9,979.233 1080,925.885 1080,870.257L1080,209.743Z" style="fill:url(#_Linear2);"/>
+        <path d="M440.869,440.869L440.869,228.24L639.131,228.24L639.131,440.869L851.76,440.869L851.76,639.131L639.131,639.131L639.131,851.76L440.869,851.76L440.869,639.131L228.24,639.131L228.24,440.869L440.869,440.869Z" style="fill:white;"/>
+    </g>
+    <defs>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.61309e-14,1080,-1080,6.61309e-14,540,0)"><stop offset="0" style="stop-color:rgb(0,180,55);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,166,128);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
